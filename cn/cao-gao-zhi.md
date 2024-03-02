@@ -1,0 +1,17 @@
+# 草稿纸
+
+1. 分析需求 (Analyse)
+2. 划分任务 (Assign)
+3. 发布任务 (Publish)
+4. 识别任务 (Recognize)
+5. 竞争任务 (Compete)
+6. 获取任务 (Acquisite)
+7. 开发 (Develop) / 工作 (Work)
+8. 身份验证 (Identity Authentication)
+9. 批准提交 (Approval)
+10. 文件审查 (Review)
+11. 错误检查 (Verify / Check / Detect)
+12. 成果验证 (Validate)
+13. 软件集成 (Integrate)
+14. 软件交付 (Deliver)
+15. 软件部署 (Deploy)
